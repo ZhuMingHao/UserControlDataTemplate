@@ -1,0 +1,1 @@
+C:\Users\minghao\Source\Repos\AbsoluteBeginnersWin10\UWP-042\UWP-042\UserControlDataTemplate\UserControlDataTemplate\UserControlDataTemplate.csproj;x86
